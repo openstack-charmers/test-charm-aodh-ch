@@ -7,3 +7,4 @@ interfaces
 *__pycache__*
 *.pyc
 .idea
+aodh_ubuntu-20.04-amd64.charm
